@@ -6,6 +6,8 @@ This repository hosts the Iris Recognition open source Java software code.
 
 Iris recognition is considered as the most reliable biometric identification system. Majority of commercial biometric systems use patented algorithms. This software is competly free and was based on work of Libor Masek presented in his thesis ( http://www.csse.uwa.edu.au/~pk/studentprojects/libor/LiborMasekThesis.pdf ).
 
+.. image:: https://github.com/bernii/iris-recognition/blob/master/screenshot.jpg
+
 How it works:
 ============
 
@@ -22,7 +24,7 @@ How to use:
 
 * As application uses SWT library that comes with Eclipse you have to add it to your classpath.
 * For MS Windows users: you can use start.bat to start the application. ( it adds required libraries to class path and starts the app ) 
-* It also uses jhlabs.com image processing library for polar coordinates transform ( all libs included in lib subdirectory )
+* It also uses jhlabs.com image processing library for polar coordinates transform ( all libs included in libs subdirectory )
 
 Prereqs:
 ============
@@ -30,12 +32,12 @@ Prereqs:
 * The Standard Widget Toolkit (comes with Eclipse) ( swt.jar )
 * Bio-medical Imaging ( http://bij.isi.uu.nl/downloads/bij_plugin.zip )
 * ImageJ ( http://imagej.nih.gov/ij/download/zips/ij144.zip ) ( ij.jar )
-* all above included in lib subdirectory
+* all above included in libs subdirectory
 
-Authors:
-============
-
-Bernard Kobos and Piotr Zaborowski from Warsaw University of Technology.
+:Authors:
+    Bernard Kobos,
+    Piotr Zaborowski.
+	( Warsaw University of Technology )
 
 
 

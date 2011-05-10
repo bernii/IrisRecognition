@@ -1,0 +1,1 @@
+java -Xss32M -jar bin/irisRecognition.jar
