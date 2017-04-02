@@ -4,7 +4,7 @@ IrisRecognition
 
 This repository hosts the Iris Recognition open source Java software code.
 
-Iris recognition is considered as the most reliable biometric identification system. Majority of commercial biometric systems use patented algorithms. This software is competly free and was based on work of Libor Masek presented in his thesis ( http://www.csse.uwa.edu.au/~pk/studentprojects/libor/LiborMasekThesis.pdf ).
+Iris recognition is considered as the most reliable biometric identification system. Majority of commercial biometric systems use patented algorithms. This software is completely free and was based on work of Libor Masek presented in his thesis ( http://www.csse.uwa.edu.au/~pk/studentprojects/libor/LiborMasekThesis.pdf ).
 
 .. image:: https://github.com/bernii/IrisRecognition/raw/master/screenshot.jpg
 
